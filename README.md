@@ -4,3 +4,4 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python](./1_two_sum) |Easy|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Python](./7_reverse_integer) |Easy|
