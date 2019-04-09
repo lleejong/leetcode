@@ -9,3 +9,4 @@
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Python](0013_roman_to_integer) |Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Python](0014_longest_common_prefix) |Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](0020_valid_parentheses) |Easy|
+|21|[Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](0021_merge_two_sorted_lists) |Easy|
