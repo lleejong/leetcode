@@ -1,5 +1,5 @@
 # 28. Implement strStr() 
-[Problems](https://leetcode.com/problems/implement-strstr/)
+[Problem](https://leetcode.com/problems/implement-strstr/)
 
 Implement [strStr()](http://www.cplusplus.com/reference/cstring/strstr/).
 
