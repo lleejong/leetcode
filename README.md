@@ -11,3 +11,4 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](0020_valid_parentheses) |Easy|
 |21|[Merge Two Sorted List](https://leetcode.com/problems/merge-two-sorted-lists/) | [Python](0021_merge_two_sorted_lists) |Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](0026_remove_duplicates_from_sorted_array) |Easy|
+|27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python](0027_remove_element) |Easy|
