@@ -14,3 +14,4 @@
 |27|[Remove Element](https://leetcode.com/problems/remove-element/) | [Python](./0027_remove_element) |Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [Python](./0028_implement_strstr) |Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./0035_search_insert_position) |Easy|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](./0038_count_and_say) |Easy|
