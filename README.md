@@ -16,3 +16,4 @@
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](./0035_search_insert_position) |Easy|
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](./0038_count_and_say) |Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./0053_maximum_subarray) |Easy|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./0058_length_of_last_word) |Easy|
