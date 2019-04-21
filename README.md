@@ -17,3 +17,4 @@
 |38|[Count and Say](https://leetcode.com/problems/count-and-say/) | [Python](./0038_count_and_say) |Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](./0053_maximum_subarray) |Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./0058_length_of_last_word) |Easy|
+|66|[Plus One](https://leetcode.com/problems/plus-one/) | [Python](./0066_plus_one) |Easy|
