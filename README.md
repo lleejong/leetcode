@@ -19,3 +19,4 @@
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Python](./0058_length_of_last_word) |Easy|
 |66|[Plus One](https://leetcode.com/problems/plus-one/) | [Python](./0066_plus_one) |Easy|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/) | [Python](./0067_add_binary) |Easy|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](./0069_sqrtx) |Easy|
