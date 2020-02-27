@@ -24,3 +24,4 @@
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/) | [Java](./0072_edit_distance/java) |Hard|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](./0083_remove_duplicates_from_sorted_list/python) |Easy|
 |494|[Target Sum](https://leetcode.com/problems/target-sum) | [Java](./494_target_sum/java) |Medium|
+|1143|[Longest Common Subsequence](https://leetcode.com/problems/target-sum) | [Java](./494_target_sum/java) |Medium|
