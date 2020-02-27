@@ -21,5 +21,6 @@
 |67|[Add Binary](https://leetcode.com/problems/add-binary/) | [Python](./0067_add_binary/python) |Easy|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [Python](./0069_sqrtx/python) |Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](./0070_climbing_stairs/python) |Easy|
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance/) | [Java](./0072_edit_distance/java) |Hard|
 |83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](./0083_remove_duplicates_from_sorted_list/python) |Easy|
 |494|[Target Sum](https://leetcode.com/problems/target-sum) | [Java](./494_target_sum/java) |Medium|
